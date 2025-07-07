@@ -1,0 +1,6 @@
+streamlit
+torchaudio
+soundfile
+asteroid
+pydub
+streamlit_webrtc
